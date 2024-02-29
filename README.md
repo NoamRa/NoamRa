@@ -1,4 +1,4 @@
-Hi, I'm Noam
+Hi, I'm Noam 🍦
 
 - I’m currently working at [UP42](https://up42.com)
 - Current projects:
